@@ -1,7 +1,22 @@
-What Was Done?
+<h1>Covid Vaccine Tracker</h1>
 
-Used Tableau and...
+<h2>Tools</h2>
 
-Conducted comprehensive analysis of global Covid-19 vaccination statistics to track and contrast the status of vaccinated versus unvaccinated individuals. 
-Uncovered and delineated trends across a dataset spanning over 200 countries.
-Investigated the correlation between vaccination rates and GDP, highlighting socio economic insights across the world.
+- Tableau
+
+<h2>Preview of Information</h2>
+
+- 200 Countries studied
+- Prime time of Covid-19 of 2020-2021
+- Max GDP in Countries to Vaccinations rates
+
+<h2>What Was Analyzed</h2>
+
+- Partially Vaccinated vs Vaccinated vs Fully Vaccinated per Location
+- Vaccination rates to GDP of Countries
+
+<h2>What Was Found</h2>
+
+- 51.26% of people around the world were not vaccinated
+- The higher the GDP of countries, the higher the vaccination rates
+
